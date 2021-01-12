@@ -1,2 +1,3 @@
-# shortcutpedia-viewer
-Search page
+# Get Started!
+
+Add files and start typing 🎉
