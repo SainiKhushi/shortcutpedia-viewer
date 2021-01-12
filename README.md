@@ -1,0 +1,2 @@
+# shortcutpedia-viewer
+Search page
