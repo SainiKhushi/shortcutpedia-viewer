@@ -1,3 +1,3 @@
-# Get Started!
+# Wikipedia Viewer
 
-Add files and start typing 🎉
+To test the app: https://viewer-page.glitch.me/#
